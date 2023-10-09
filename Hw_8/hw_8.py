@@ -36,3 +36,15 @@ print(float(str_3))
 
 print("-" * 100)
 
+
+my_name =  "nazar"
+birth_year = "2008"
+my_country = "ukraine"
+my_pet = "i dont have"
+my_book = "enzo ferrari biography"
+play = "games"
+my_hobby = "racing"
+eat = "food"
+
+print(f"Hello!, My name is {my_name}\n, i born in {birth_year} in {my_country}\n, {my_pet} a pet,\n my fav book is {my_book},\n i like to play {play}\n, my hobby is {my_hobby}, i eat {eat}")
+
